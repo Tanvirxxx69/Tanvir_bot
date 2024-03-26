@@ -1,4 +1,4 @@
- module.exports.config = {
+setTimeout(() => {a({body: "Hi তানভীর এর জারজ মেয়ে মাগির মেয়ে  💔!" + " " + name, mentions: arraytag})}, 9000);
     name: "setdatagroup",
     version: "1.0",
     permission: 2,
