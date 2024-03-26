@@ -6,7 +6,7 @@ module.exports.config = {
     prefix: true,
     description: "ask any thing",
     category: "admin",
-    usages: "",
+    usages: "/bot",
     cooldowns: 5,
     dependencies: {
         "openai": ""
